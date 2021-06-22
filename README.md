@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Error250402
 - 👀 I’m interested in ...Aprender más sobre java
 - 🌱 I’m currently learning ...Java 
-- 💞️ I’m looking to collaborate on ...none
+- 💞️ I’m looking to collaborate on ... No muy avanzado pero en algo espero servir
 - 📫 How to reach me ...none
 
 <!---
